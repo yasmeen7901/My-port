@@ -23,7 +23,27 @@ Kali Linux
 </div>
 <div>
   <a href="https://www.pinnaclelabs.io/">
-    <img src="https://img.shields.io/badge/-Pinnacle%20Labs%20Cybersecurity-FF0000?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Pinnacle%20Labs%20Cybersecurity Course-FF0000?style=for-the-badge" />
+  </a>
+</div>
+<div>
+  <a href="https://www.netacad.com/courses/getting-started-cisco-packet -tracer/">
+    <img src="https://img.shields.io/badge/-Getting%20Started%20with%20Cisco%20Packet%20Tracer-007bff?style=for-the-badge" />
+  </a>
+</div>
+<div>
+  <a href="https://www.hackerrank.com/certificates/[Your Certificate ID]">
+    < img src="https://img.shields.io/badge/-SQL%20Certificate-007bff?style=for-the-badge" />
+  </a>
+</div>
+<div>
+  <a href="https://www.coursera.org/account/accomplishments/certificate/[Your Certificate ID]">
+    <img src="https://img.shields.io/badge/-IBM%20Cybersecurity%20Fundamentals-007bff?style=for-the-badge" />
+  </a>
+</div>
+<div>
+  <a href="https://www.infosys.com/training/learning -platform/learning-platform.html">
+    <img src="https://img.shields.io/badge/-Infosys%20Hands%20on%20Web%20Penetration%20Testing%20with%20Kali%20Linux-007bff?style=for-the-badge" />
   </a>
 </div>
 
