@@ -19,8 +19,7 @@ Kali Linux
 
 
 ## Certifications
-<div><img src="https://img.shields.io/badge/-Verzeo%20Cybersecurity%20Course-FF0000?&style=for-the-badge https://www.verzeo.com/"/>
-<img src="https://img.shields.io/badge/-Cisco%20Introduction%20to%20Cybersecurity%20Course-FF0000?&style=for-the-badge https://www.cisco.com/c/en/us/products/security/intro-cybersecurity/index.html/">
+<div><img src="https://img.shields.io/badge/-Cisco%20Introduction%20to%20Cybersecurity%20Course-FF0000?&style=for-the-badge https://www.cisco.com/c/en/us/products/security/intro-cybersecurity/index.html/">
 </div>
 
 </div>
