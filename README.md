@@ -2,8 +2,8 @@
 # Hello, I'm YASMEEN R A
 <a href="https://linkedin.com/yasmeenra"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-##Introduction
 
+##Introduction
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
@@ -21,8 +21,14 @@ Kali Linux
 ## Certifications
 <div><img src="https://img.shields.io/badge/-Cisco%20Introduction%20to%20Cybersecurity%20Course-FF0000?&style=for-the-badge https://www.cisco.com/c/en/us/products/security/intro-cybersecurity/index.html/">
 </div>
+<div>
+  <a href="https://www.pinnaclelabs.io/">
+    <img src="https://img.shields.io/badge/-Pinnacle%20Labs%20Cybersecurity-FF0000?style=for-the-badge" />
+  </a>
+</div>
 
 </div>
+
 ## Projects
 - Text Encryption
 - Image Encryption
