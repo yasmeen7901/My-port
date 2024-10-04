@@ -6,7 +6,7 @@
 ##Introduction
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
-## Objective
+## Objective 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 
@@ -29,11 +29,6 @@ Kali Linux
 <div>
   <a href="https://www.netacad.com/courses/getting-started-cisco-packet -tracer/">
     <img src="https://img.shields.io/badge/-Getting%20Started%20with%20Cisco%20Packet%20Tracer-007bff?style=for-the-badge" />
-  </a>
-</div>
-<div>
-  <a href="https://www.hackerrank.com/certificates/[Your Certificate ID]">
-    < img src="https://img.shields.io/badge/-SQL%20Certificate-007bff?style=for-the-badge" />
   </a>
 </div>
 <div>
